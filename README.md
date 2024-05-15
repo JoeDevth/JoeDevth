@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Chaiwat26859@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/jonell888/My-CV/tree/main]([https://github.com/jonell888/My-CV/tree/main](https://github.com/jonell888/My-CV/blob/main/CV-Chaiwat.pdf)
+- 📄 Know about my experiences [https://github.com/jonell888/My-CV/tree/main]([https://github.com/jonell888/My-CV/tree/main](https://github.com/jonell888/My-CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
