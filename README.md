@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joey</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
-- 🔭 I’m Study on Nakhon Phanom University
+- 🔭 I’m Study IT on Nakhon Phanom University 
 
 - 🌱 I’m currently learning **Css,JavaScript**
 
