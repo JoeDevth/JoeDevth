@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joey</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
-- 🔭 I’m currently working on [Shape Css](https://github.com/jonell888/Shape-CSS)
+- 🔭 I’m Study on Nakhon Phanom University
 
-- 🌱 I’m currently learning **JavaScript,Css**
+- 🌱 I’m currently learning **Css,JavaScript**
 
 - 📝 I regularly write articles on self-improve [https://www.facebook.com/profile.php?id=100083152180117&locale=th_TH](https://www.facebook.com/profile.php?id=100083152180117&locale=th_TH)
 
