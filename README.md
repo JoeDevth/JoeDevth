@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joey</h1>
-<h3 align="center">A passionate Web developer from Thailand</h3>
+<h3 align="center">A passionate Web Developer from Thailand</h3>
 
 - 🔭 I’m Study **IT on Nakhon Phanom University**
 
