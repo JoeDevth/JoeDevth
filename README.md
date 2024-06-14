@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Chaiwat Butworn</h1>
-<h3 align="center">Web Developer from Thailand</h3>
+<h3 align="center">Junior Web Developer from Thailand</h3>
 
 - 🔭 I’m Study **IT on Nakhon Phanom University**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Chaiwat26859@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/jonell888/My-CV/tree/main](https://github.com/jonell888/My-CV)
+- 📄 Know about experiences in my CV [https://github.com/jonell888/My-CV/tree/main](https://github.com/jonell888/My-CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
