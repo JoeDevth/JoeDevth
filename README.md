@@ -3,7 +3,7 @@
 
 - 🔭 I’m Study **IT on Nakhon Phanom University**
 
-- 🌱 I’m currently learning **Css,JavaScript**
+- 🌱 I’m currently learning **Chatbot AI**
 
 - 📝 I regularly write articles on self-improve [https://www.facebook.com/profile.php?id=100083152180117&locale=th_TH](https://www.facebook.com/profile.php?id=100083152180117&locale=th_TH)
 
