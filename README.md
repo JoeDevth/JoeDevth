@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm Chaiwat Butworn</h1>
-<h3 align="center">Junior Web Developer from Thailand</h3>
+<h3 align="center">Junior Full-stack from Thailand</h3>
 
 - 🔭 I’m Study **IT on Nakhon Phanom University**
 
-- 🌱 I’m currently learning **Chatbot AI**
+- 🌱 I’m currently learning **React,Next.js**
 
 - 📝 I regularly write articles on self-improve [https://www.facebook.com/profile.php?id=100083152180117&locale=th_TH](https://www.facebook.com/profile.php?id=100083152180117&locale=th_TH)
 
-- 📫 How to reach me **Chaiwat26859@gmail.com**
+- 📫 How to reach me **ChaiwatButworn@gmail.com**
 
 - 📄 Know about experiences in my CV [https://github.com/jonell888/My-CV/tree/main](https://github.com/jonell888/My-CV)
 
