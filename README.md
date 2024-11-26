@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React,Next.js**
 
-- 📝 I regularly write articles on self-improve [https://www.facebook.com/profile.php?id=100083152180117&locale=th_TH](https://www.facebook.com/profile.php?id=100083152180117&locale=th_TH)
-
 - 📫 How to reach me **ChaiwatButworn@gmail.com**
 
 - 📄 Know about experiences in my CV [https://github.com/jonell888/My-CV/tree/main](https://github.com/jonell888/My-CV)
