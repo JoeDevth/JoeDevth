@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Chaiwat Butworn</h1>
-<h3 align="center">Junior Full-stack from Thailand</h3>
+<h3 align="center">Junior Front-End Deverloper</h3>
 
 - 🔭 I’m Study **IT on Nakhon Phanom University**
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/chaiwat-joey-96526b2a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chaiwat-joey-96526b2a2" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/chaiwat.butworn?locale=th_th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/chaiwat.butworn?locale=th_th" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/chaiwat.butworn?locale=th_th" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/thisischiwat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thisischiwat/" height="30" width="40" /></a>
 </p>
 
