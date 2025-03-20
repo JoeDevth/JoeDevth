@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm Chaiwat Butworn</h1>
 <h3 align="center">Junior Front-End Deverloper</h3>
 
-- 🔭 I’m Study **IT on Nakhon Phanom University**
+- 🔭 I’m Graduated from **IT on Nakhon Phanom University**
 
-- 🌱 I’m currently learning **React,Next.js**
+- 🌱 I’m currently learning **React,Next.js, Angular**
 
 - 📫 How to reach me **ChaiwatButworn@gmail.com**
 
-- 📄 Know about experiences in my CV [https://github.com/jonell888/My-CV/tree/main](https://github.com/jonell888/My-CV)
+- 📄 Know about experiences in my CV [https://github.com/JoeDevth/My-CV/tree/main](https://github.com/JoeDevth/My-CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
