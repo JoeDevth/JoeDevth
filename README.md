@@ -5,8 +5,6 @@
   
 - 📫 How to reach me **ChaiwatButworn@gmail.com**
 
-- 📄 Know about experiences in my CV [https://github.com/JoeDevth/My-CV/tree/main](https://github.com/JoeDevth/My-CV)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chaiwat-butworn-96526b2a2" target="blank">
