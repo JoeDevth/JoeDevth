@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Jonell</h1>
-<h3 align="center">Web Deverloper</h3>
+<h3 align="center">Web Developer</h3>
 
 - 🔭 I’m Graduated from **IT on Nakhon Phanom University**
   
